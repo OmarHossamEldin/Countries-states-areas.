@@ -1,4 +1,4 @@
-# All Arab Countries & states and it's area.
+# All Arab Countries and it's  states and  areas.
 
 > to help developers to seed their database information for countries
 
