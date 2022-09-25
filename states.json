@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "country_id": 5,
+        "name": "Alexandria"
+    },
+    {
+        "id": 2,
+        "country_id": 5,
+        "name": "Assiut"
+    },
+    {
+        "id": 3,
+        "country_id": 5,
+        "name": "Aswan"
+    },
+    {
+        "id": 4,
+        "country_id": 5,
+        "name": "Beheira"
+    },
+    {
+        "id": 5,
+        "country_id": 5,
+        "name": "Beni Suef"
+    },
+    {
+        "id": 6,
+        "country_id": 5,
+        "name": "Cairo"
+    },
+    {
+        "id": 7,
+        "country_id": 5,
+        "name": "Dakahlia"
+    },
+    {
+        "id": 8,
+        "country_id": 5,
+        "name": "Damietta"
+    },
+    {
+        "id": 9,
+        "country_id": 5,
+        "name": "Fayoum"
+    },
+    {
+        "id": 10,
+        "country_id": 5,
+        "name": "Gharbiya"
+    },
+    {
+        "id": 11,
+        "country_id": 5,
+        "name": "Giza"
+    },
+    {
+        "id": 12,
+        "country_id": 5,
+        "name": "Ismailia"
+    },
+    {
+        "id": 13,
+        "country_id": 5,
+        "name": "Kafr Al sheikh"
+    },
+    {
+        "id": 14,
+        "country_id": 5,
+        "name": "Luxor"
+    },
+    {
+        "id": 15,
+        "country_id": 5,
+        "name": "Matrouh"
+    },
+    {
+        "id": 16,
+        "country_id": 5,
+        "name": "Menofia"
+    },
+    {
+        "id": 17,
+        "country_id": 5,
+        "name": "Minya"
+    },
+    {
+        "id": 18,
+        "country_id": 5,
+        "name": "El-Wadi El-Gedid"
+    },
+    {
+        "id": 19,
+        "country_id": 5,
+        "name": "North Sinai"
+    },
+    {
+        "id": 20,
+        "country_id": 5,
+        "name": "Port Said"
+    },
+    {
+        "id": 21,
+        "country_id": 5,
+        "name": "Qaliubiya"
+    },
+    {
+        "id": 22,
+        "country_id": 5,
+        "name": "Qena"
+    },
+    {
+        "id": 23,
+        "country_id": 5,
+        "name": "Red Sea"
+    },
+    {
+        "id": 24,
+        "country_id": 5,
+        "name": "Sharkia"
+    },
+    {
+        "id": 25,
+        "country_id": 5,
+        "name": "Sohag"
+    },
+    {
+        "id": 26,
+        "country_id": 5,
+        "name": "South Sinai"
+    },
+    {
+        "id": 27,
+        "country_id": 5,
+        "name": "Suez"
+    }
+]
